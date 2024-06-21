@@ -11,7 +11,8 @@ $(document).ready(function(){
                     dots: true,
                     arrows: false,
                     slidesToShow: 2,
-                    slidesToScroll: 1
+                    slidesToScroll: 1,
+                    autoplaySpeed: 2000
                 }
             },
             {
@@ -20,7 +21,8 @@ $(document).ready(function(){
                     dots: true,
                     arrows: false,
                     slidesToShow: 2,
-                    slidesToScroll: 1
+                    slidesToScroll: 1,
+                    autoplaySpeed: 2000
                 }
             },
             {
@@ -29,10 +31,10 @@ $(document).ready(function(){
                     dots: true,
                     arrows: false,
                     slidesToShow: 1,
-                    slidesToScroll: 1
+                    slidesToScroll: 1,
+                    autoplaySpeed: 2000
                 }
             }
         ]
     });
 });
-      
